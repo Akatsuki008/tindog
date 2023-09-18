@@ -1,2 +1,2 @@
-# tindof
+# tindog
  for dog lovers
